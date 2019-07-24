@@ -5,6 +5,7 @@ https://elmas3.github.io/mao-seminar/
 
 # メンバー
 みんな
+デタッチドHEAD用
 
 # ディレクトリ構成
 ```
